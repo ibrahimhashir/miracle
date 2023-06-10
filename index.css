@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.miracle{
+    
+
+   /* width: 40%; */
+   padding: 10px;
+   font-size: 25px;
+   width: 500px;
+
+}
+
+
+.under{
+    border-bottom: solid;
+}
+.miracle, ul{
+    float: left;
+    text-align: center;
+  
+}
+
+
+li a {
+    text-decoration: none;
+    color: black;
+   
+}
+ ul{
+     list-style: none;
+     color: black;
+    
+}
+li{
+    float: left;
+      padding: 10px;
+      text-align: center;
+}
+
+
+.nav_content{
+    padding: 10px 50px;
+}
+
+
+.background{
+    background-image: url(../image/download.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.background_content{
+    color: white;
+/* font-size: 30px; */
+top: 10%;
+left: 8%;
+position: absolute;
+font-size: 20px;
+}
+
+.beauty{
+    color:white;
+    padding: 7px;
+    font-size: 30px;
+}
+
+.intro{
+    padding: 10px;
+    color:rgb(206, 219, 18);
+    
+}
+
+.intro2{
+    padding: 10px;
+    color:whitesmoke;
+    
+}
+
+.p3{
+    background-color: yellowgreen;
+    border-radius: 28px;
+    width: 100px;
+    padding: 8px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.fixed{
+    width: 100px;
+    box-sizing: 30px;
+    position: fixed;
+    top: 80%;
+    left: 93%;
+
+    
+}
+
+.icon{
+ font-size: 40px;
+ color: blue;
+ padding: 10px;
+ 
+
+}
+
+ .user{
+    
+    background-color:blue;
+    /* width: 10px;
+    height: 10px; */
+    border-radius: 58%;
+    padding: 10px;
+    color: white;
+
+} 
